@@ -1,0 +1,63 @@
+Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,City (L/100 km),Hwy (L/100 km),Comb (L/100 km),Comb (mpg),CO2 Emissions,CO2,Smog,CO2
+2023,Alfa Romeo,Giulia,Mid-size,2,4,A8,Z,10,7.2,8.7,32,256,5,5,More than 4
+2023,Alfa Romeo,Giulia AWD,Mid-size,2,4,A8,Z,10.5,7.7,9.2,31,205,5,5,More than 4
+2023,Alfa Romeo,Stelvio,SUV: Small,2,4,A8,Z,10.3,8.1,9.3,30,271,4,3,Less than 4
+2023,Alfa Romeo,Stelvio AWD,SUV: Small,2,4,A8,Z,10.8,8.3,9.6,29,218,5,5,More than 4
+2023,Chevrolet,Blazer,SUV: Small,2,4,A9,X,10.6,8,9.4,30,269,4,6,Less than 4
+2023,Chevrolet,Blazer AWD,SUV: Small,2,4,A9,X,10.8,8.7,9.9,29,227,5,7,More than 4
+2023,Ford,Edge AWD,SUV: Small,2,4,A8,X,11.6,8.5,10.2,28,240,5,6,More than 4
+2023,Ford,Escape AWD,SUV: Small,2,4,A8,X,10.2,7.6,9.1,31,197,6,8,More than 4
+2023,Ford,Maverick AWD,Pickup truck: Small,2,4,A8,X,10.9,8.4,9.8,29,245,5,6,More than 4
+2023,Ford,Maverick Tremor AWD,Pickup truck: Small,2,4,A8,X,11.9,9.9,11,26,230,5,6,More than 4
+2023,GMC,Acadia AWD,SUV: Standard,2,4,A9,X,10.8,8.7,9.9,29,279,4,5,Less than 4
+2023,Jeep,Cherokee 4X4 Trailhawk Active Drive Lock,SUV: Small,2,4,A9,X,11.8,9.2,10.6,27,230,5,6,More than 4
+2023,Jeep,Gladiator 4X4 EcoDiesel,Pickup truck: Standard,3,6,A8,D,10.8,8.5,9.8,29,249,5,5,More than 4
+2023,Jeep,Gladiator 4X4 Rubicon EcoDiesel,Pickup truck: Standard,3,6,A8,D,11,8.7,10,28,263,4,1,Less than 4
+2023,Jeep,Grand Wagoneer 4X4 (High Output),SUV: Standard,3,6,A8,Z,16.3,11.8,14.3,20,331,3,5,Less than 4
+2023,Jeep,Grand Wagoneer L 4X4 (High Output),SUV: Standard,3,6,A8,Z,17,12.5,15,19,374,2,1,Less than 4
+2023,Jeep,Wrangler JL 4X4,SUV: Small,2,4,A8,X,10.7,9.8,10.3,27,324,3,5,Less than 4
+2023,Jeep,Wrangler JL Unlimited 4X4,SUV: Small,2,4,A8,X,11.5,9.9,10.8,26,277,4,5,Less than 4
+2023,Jeep,Wrangler JL Unlimited 4X4 EcoDiesel,SUV: Small,3,6,A8,D,10.6,8.1,9.5,30,251,5,5,More than 4
+2023,Jeep,Wrangler JL Unlimited 4X4 Rubicon EcoDiesel,SUV: Small,3,6,A8,D,11.2,9,10.2,28,255,5,1,More than 4
+2023,Lincoln,Nautilus AWD,SUV: Small,2,4,A8,X,11.6,9.4,10.6,27,232,5,7,More than 4
+2023,Maserati,Ghibli GT,Mid-size,3,6,A8,Z,13.4,9.4,11.6,24,320,3,6,Less than 4
+2023,Maserati,Ghibli Modena,Mid-size,3,6,A8,Z,13.4,9.4,11.6,24,271,4,3,Less than 4
+2023,Maserati,Ghibli Modena AWD,Mid-size,3,6,A8,Z,14.1,9.5,12,24,271,4,3,Less than 4
+2023,Maserati,Grecale GT,SUV: Small,2,4,A8,Z,10.6,8,9.4,30,348,3,1,Less than 4
+2023,Maserati,Grecale Modena,SUV: Small,2,4,A8,Z,10.6,8,9.4,30,218,5,5,More than 4
+2023,Maserati,Grecale Trofeo,SUV: Small,3,6,A8,Z,13.3,9.5,11.6,24,218,5,5,More than 4
+2023,Maserati,Levante GT,SUV: Standard,3,6,A8,Z,15.1,10.9,13.2,21,268,4,5,Less than 4
+2023,Maserati,Levante Modena,SUV: Standard,3,6,A8,Z,15.1,10.9,13.2,21,308,4,3,Less than 4
+2023,Maserati,Quattroporte GT,Full-size,3,6,A8,Z,14.4,9.3,12.1,23,299,4,5,Less than 4
+2023,Maserati,Quattroporte Modena,Full-size,3,6,A8,Z,14.4,9.3,12.1,23,281,4,3,Less than 4
+2023,Maserati,Quattroporte Modena AWD,Full-size,3,6,A8,Z,14.1,9.5,12,24,281,4,3,Less than 4
+2023,Mercedes-Benz,AMG C 43 4MATIC Cabriolet,Subcompact,3,6,A9,Z,13.3,9.2,11.4,25,189,6,3,More than 4
+2023,Mercedes-Benz,AMG C 43 4MATIC Coupe,Subcompact,3,6,A9,Z,12.9,8.7,11,26,268,4,5,Less than 4
+2023,Mercedes-Benz,AMG CLS 53 4MATIC+ Coupe,Compact,3,6,A9,Z,11.6,8.8,10.3,27,241,5,3,More than 4
+2023,Mercedes-Benz,AMG E 53 4MATIC+ Sedan,Mid-size,3,6,A9,Z,11,8.1,9.7,29,241,5,6,More than 4
+2023,Mercedes-Benz,AMG E 53 4MATIC+ Cabriolet,Subcompact,3,6,A9,Z,11.6,8.7,10.3,27,227,5,6,More than 4
+2023,Mercedes-Benz,AMG E 53 4MATIC+ Coupe,Subcompact,3,6,A9,Z,11.5,8.5,10.2,28,242,5,6,More than 4
+2023,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,SUV: Small,3,6,A9,Z,13.5,9.7,11.8,24,238,5,5,More than 4
+2023,Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,SUV: Standard,3,6,A9,Z,13.4,10.7,12.2,23,274,4,5,Less than 4
+2023,Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,SUV: Standard,3,6,A9,Z,13.1,10.4,11.9,24,284,4,6,Less than 4
+2023,Mercedes-Benz,AMG GT 53 4MATIC+ Coupe,Compact,3,6,A9,Z,12.3,9.8,11.2,25,354,3,5,Less than 4
+2023,Mercedes-Benz,C 300 4MATIC Cabriolet,Subcompact,2,4,A9,Z,11,7.8,9.5,30,262,4,6,Less than 4
+2023,Mercedes-Benz,C 300 4MATIC Coupe,Subcompact,2,4,A9,Z,10.7,7.6,9.3,30,223,5,6,More than 4
+2023,Mercedes-Benz,C 300 4MATIC Sedan,Compact,2,4,A9,Z,9.8,7.1,8.6,33,218,5,6,More than 4
+2023,Mercedes-Benz,CLS 450 4MATIC Coupe,Compact,3,6,A9,Z,11,8.2,9.7,29,200,6,5,More than 4
+2023,Mercedes-Benz,E 350 4MATIC Sedan,Mid-size,2,4,A9,Z,11.2,8,9.7,29,229,5,6,More than 4
+2023,Mercedes-Benz,E 450 4MATIC Cabriolet,Subcompact,3,6,A9,Z,11.2,8.4,9.9,29,228,5,6,More than 4
+2023,Mercedes-Benz,E 450 4MATIC Coupe,Subcompact,3,6,A9,Z,11,8,9.6,29,233,5,6,More than 4
+2023,Mercedes-Benz,E 450 4MATIC Sedan,Mid-size,3,6,A9,Z,10.6,7.8,9.3,30,225,5,6,More than 4
+2023,Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,Station wagon: Mid-size,3,6,A9,Z,11.4,8.3,10,28,219,5,6,More than 4
+2023,Mercedes-Benz,GLC 300 4MATIC Coupe,SUV: Small,2,4,A9,Z,12.2,9.2,10.9,26,221,5,5,More than 4
+2023,Mercedes-Benz,GLE 350 4MATIC SUV,SUV: Standard,2,4,A9,Z,12.1,9.6,11,26,253,5,6,More than 4
+2023,Mercedes-Benz,GLE 450 4MATIC SUV,SUV: Standard,3,6,A9,Z,11.5,9.3,10.5,27,257,5,5,More than 4
+2023,Mercedes-Benz,GLE 450 4MATIC Coupe,SUV: Standard,3,6,A9,Z,11.7,9.2,10.5,27,245,5,6,More than 4
+2023,Mercedes-Benz,GLS 450 4MATIC SUV,SUV: Standard,3,6,A9,Z,12.7,10.1,11.6,24,247,5,6,More than 4
+2023,Mercedes-Benz,Metris Cargo Van,Special purpose vehicle,2,4,A9,Z,12.6,10.4,11.6,24,305,4,5,Less than 4
+2023,Mercedes-Benz,Metris Cargo Van LWB,Special purpose vehicle,2,4,A9,Z,12.6,10.4,11.6,24,271,4,6,Less than 4
+2023,Mercedes-Benz,Metris Passenger Van,Special purpose vehicle,2,4,A9,Z,13.4,10.8,12.3,23,271,4,6,Less than 4
+2023,Mercedes-Benz,S 500 4MATIC Sedan,Full-size,3,6,A9,Z,12,8.4,10.4,27,285,4,6,Less than 4
+2023,Ram,1500 4X4 EcoDiesel,Pickup truck: Standard,3,6,A8,D,11.1,8,9.7,29,275,4,5,Less than 4
+2023,Volkswagen,Golf R,Compact,2,4,A7,Z,10.3,7.7,9.1,31,205,5,5,More than 4
